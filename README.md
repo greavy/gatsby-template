@@ -1,4 +1,4 @@
-# Miquido's gatsby template
+# My personal gatsby template
 
 ### Out of box features:
 - gatsby's default **routing** - *src/pages* folder holds and transforms files into pages
